@@ -14,9 +14,8 @@
 Status H0 message: LOLOS — setiap kata faktual terverifikasi. Satu-satunya klaim dinamis (MRR kini) dibatasi "$5K+" yang didukung 4 sumber independen.
 
 ## H0 checklist (HP, 15 menit)
-[ ] Kirim PESAN 1 (bawah) ke Shri via X DM @shri_vatz ATAU reply publik di thread terbarunya (pilih SATU kanal).
-[ ] Catat tanggal kirim: __________.
-[ ] Jika 4 hari tanpa respons: kirim PENGINGAT (bawah). Setelah itu STOP total — lanjut ke T2 KeepTheScore.
+[x] Kirim PESAN 1 (bawah) ke Shri via X DM @shri_vatz ATAU reply publik di thread terbarunya (pilih SATU kanal). TERKIRIM: Kamis 24 Sep 2026, 17.11 WIB.
+[ ] Jika 28 Sep 2026 (~17.11 WIB, H+4) tanpa respons: kirim PENGINGAT (bawah). Setelah itu STOP total — lanjut ke T2 KeepTheScore.
 [ ] Jika YA: minta 3 angka (berapa failed-payment/14 hari? retry otomatis aktif? boleh akses dashboard read-only + kirim email atas namanya?) → isi baseline → mulai H1–H14 per `11-protocol-dunning.md`.
 [ ] Jika TIDAK: catat alasan (1 baris) → pindah T2. Penolakan = data (WTP negatif parsial).
 
