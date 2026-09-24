@@ -26,3 +26,13 @@ Subjek: free 14-day signup experiment (one step)
 - Maks 6 ini. Jangan tambah target sendiri dulu (merusak tracking).
 - Setelah kirim tiap pesan: catat tanggal di `evidence/sprint-ledger.csv` + kabari saya (satu pesan: "batch I terkirim 25 Sep").
 - H+4 tanpa balas → 1 pengingat (varian ada di `14-dm-variants.md`) → sunyi = pindah Batch II.
+
+## CADANGAN X-tertutup (kirim 24–25 Sep, 1x saja per target)
+### Inkdrop — reply publik di postingan @inkdrop_app terbaru
+> Love Inkdrop (solo dev, respect). Boleh DM? Ada 1 ide eksperimen gratis 14 hari soal failed-payment recovery — kamu simpan 100% hasilnya.
+
+### Userlist — email support@userlist.com, subjek: free 14-day signup experiment
+> Hi Jane — big fan of your onboarding teardowns. Noticed you call the card-upfront "conversion-killing requirement" yourselves — honest and rare. I'm running a tiny free experiment with micro-SaaS founders: move that ONE step post-value for 14 days, measure trial-to-paid per source. I do analysis + tracking; you approve one change (~30 min total). All numbers shared either way. Worth trying? No worries if not.
+
+### SavvyCal — email via situs (sapaan Derrick)
+> Hi Derrick — saw SavvyCal hired support help and cut reply time ~85%. I'm running a tiny free experiment: 30 min/day for 14 days I triage your support inbox (draft replies, flag billing vs answerable, surface repeat issues) — you approve everything, nothing sends without you. Goal: measure what the residue really costs. Interested? Happy with yes/no.
