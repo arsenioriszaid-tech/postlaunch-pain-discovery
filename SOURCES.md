@@ -388,3 +388,20 @@
 [386] https://docs.stripe.com/disputes/responding.md — Stripe disputes windows fees
 [387] https://stripe.com/resources/more/representment-explained — Stripe representment 101
 [388] https://www.operatorbook.dev/stories/the-month-a-chargeback-wave-froze-my-stripe-at-23k-mrr — OperatorBook chargeback composite-C
+[389] https://www.chargebee.com/blog/cancellation-flow — Chargebee cancel Powtoon
+[390] https://www.indiehackers.com/post/my-dashboard-flags-whos-cancelling-before-they-do-stopped-2k-mrr-from-leaving-this-month-23b372b3d5 — IH dashboard 2K retained
+[391] https://profitpathlogic.com/saas-cancellation-save-rate-benchmark — ProfitPath save benchmarks
+[392] https://microsaasinsider.com/saas-cancellation-flow-solo-founder — MicroSaaSInsider cancel solo
+[393] https://dev.to/vhub_systems_ed5641f65d59/312-trial-starts-this-month-24-converted-i-manually-dug-through-mixpanel-and-found-11-21k4 — Devto Mixpanel 11users 539
+[394] https://busnurd.com/case-studies/saas-email-marketing-conversion — Busnurd trial 12-to-29
+[395] https://www.reddit.com/r/SideProject/comments/1o6w3xx/stop_sending_your_trial_is_ending_emails_theyre.json — Reddit trial rewrite 12-38
+[396] https://dev.to/speedy_devv/i-shipped-a-saas-mvp-with-three-emails-then-i-watched-it-die-3dej — Devto 3emails die 12-22
+[397] https://www.sequenzy.com/blog/win-back-expired-trial-users — Sequenzy win-back trials
+[398] https://www.sequenzy.com/blog/saas-trial-to-paid-email-sequences — Sequenzy trial-paid sequences
+[399] https://churntools.com/blog/how-to-reduce-trial-expiry-abandonment — ChurnTools trial expiry
+[400] https://redo.com/resources/articles/chargebacks/what-happens-if-you-lose-a-chargeback — Redo loss free-representment
+[401] https://beastinsights.com/blog/chargeback-representment — BeastInsights triage 50-75
+[402] https://www.indiehackers.com/post/first-dispute-in-stripe-ebf9a690f8 — IH first dispute 0.0078pct
+[403] https://www.indiehackers.com/post/i-spent-a-day-building-the-button-that-lets-people-cancel-and-leave-me-7d9487b76b — IH NotebookBloom cancel-btn
+[404] https://www.fincoro.com/insights/stripe-chargeback-what-merchants-miss — Fincoro chargeback miss
+[405] https://stripe.com/resources/more/chargeback-reports — Stripe chargeback reports

@@ -9,3 +9,4 @@
 | G-06 | Positioning decider (AI putuskan segmen) | Keputusan komitmen tetap manusia; hanya analis (P2) | gut-ICP [21]; Apollo [17] |
 | G-07 | Traffic-first growth agent | Semua kandidat attention-supply runtuh pada asumsi bersama (matriks §program-level) | [47][48][118][119] |
 | G-08 | P1/P2/P5 sebagai pain independen | MERGE 9/9 → satu hulu (V4) | `evidence/stream-V4-mergetest.md` |
+| G-09 | Dispute/chargeback concierge standalone | Volume fatal (0.0078% → 0–2/bln) + Redo GRATIS bunuh price-point + menang tak perbaiki rasio; perilaku mikro = pencegahan/terima-kehilangan | [402][400][401][403] |
