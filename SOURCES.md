@@ -322,3 +322,9 @@
 [320] https://arrfounder.com/news/guidejar-reaches-5k-mrr — ARRfounder GuideJar 5K Dec25
 [321] https://pulsemrr.app/startup/guidejar — PulseMRR GuideJar 5.1K flat 235subs
 [322] https://trustmrr.com/startup/guidejar — TrustMRR GuideJar Stripe-verified Sep26
+[323] https://trustmrr.com — TrustMRR verified-methodology
+[324] https://trustmrr.com/llms.txt — TrustMRR llms API-verification
+[325] https://pulsemrr.app — PulseMRR disclaimer TrustMRR-sourced
+[326] https://www.founder.best/blog/what-is-trustmrr — Founderbest TrustMRR explainer
+[327] https://feedback.guidejar.com/updates — GuideJar changelog shipping-2026
+[328] https://www.indiehackers.com/Shrivatz — IH Shrivatz profile
