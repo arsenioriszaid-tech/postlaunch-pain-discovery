@@ -328,3 +328,17 @@
 [326] https://www.founder.best/blog/what-is-trustmrr — Founderbest TrustMRR explainer
 [327] https://feedback.guidejar.com/updates — GuideJar changelog shipping-2026
 [328] https://www.indiehackers.com/Shrivatz — IH Shrivatz profile
+[329] https://productled.com/blog/userlist-onboarding-teardown — ProductLed Userlist teardown Jane
+[330] https://userlist.com/about-us — Userlist about 2-cofounders
+[331] https://userlist.com/pricing — Userlist pricing card-trial
+[332] https://www.outseta.com/posts/freemium-to-direct-to-paid — Outseta freemium-paid experiment
+[333] https://www.outseta.com/posts/the-case-for-the-7-day-credit-card-required-free-trial — Outseta card-trial case
+[334] https://www.plutio.com/pricing — Plutio pricing 19-solo
+[335] https://www.starterstory.com/stories/how-we-built-it-900k-open-source-saas — StarterStory Papermark 900K NEGATIVE
+[336] https://buttondown.com/pricing — Buttondown pricing subs
+[337] https://buttondown.com/about — Buttondown bootstrapped
+[338] https://www.linkedin.com/in/justin-duke-4438a171 — Justin Duke Buttondown CEO
+[339] https://www.featurebase.app/blog/bootstrapping-to-100k-arr — Featurebase 100K Bruno Robi
+[340] https://www.plutio.com/about — Plutio about Leo
+[341] https://www.plutio.com/blog/plutio-backstory — Plutio backstory Leo
+[342] https://www.indiehackers.com/post/how-building-a-community-helped-us-grow-to-10-000-users-yFPbXAsn4yRr1TLXvjsd — IH Plutio 10K users
