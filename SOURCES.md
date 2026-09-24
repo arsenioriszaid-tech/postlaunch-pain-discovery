@@ -256,3 +256,69 @@
 [254] https://www.indiehackers.com/post/from-architect-to-indie-hacker-how-i-built-my-first-saas-with-zero-code-and-hit-7-1-conversion-i7Rnlu1YqvZBTzhRdIEv — V4 RenderArchi volume refutation
 [255] https://www.reddit.com/r/DigitalMarketing/comments/1oi2e8d/i_tested_5_customer_acquisition_channels_for_90 — V4 5-channel 90day outbound
 [256] https://www.indiehackers.com/post/the-exact-playbook-i-used-to-reach-1k-mrr-no-audience-no-ads-tn8xDXbSRelPtzevf3tM — V4 1K MRR playbook merge-confirm
+[257] https://casparwre.de/blog/lessons-learned-after-10k-revenue — Caspar 10K revenue lessons
+[258] https://casparwre.de/blog/12-months-as-a-solo-developer — Caspar 12 months solo
+[259] https://www.indiehackers.com/post/vc-money-broke-tech-20c2c72807 — IH VC-money Caspar 11K
+[260] https://www.indiehustle.co/p/from-side-project-to-a-190000-arr — IndieHustle KeepTheScore 190K ARR
+[261] https://www.indiehackers.com/post/how-shri-vatz-grew-guidejar-to-4k-mrr-solo-d5ab64601a — IH GuideJar 4K solo
+[262] https://www.fakemayo.com/p/how-shri-vatz-grew-his-side-hustle-guidejar-into-a-4k-mrr-success — Fakemayo GuideJar 4K
+[263] https://www.indiehackers.com/post/no-big-following-no-marketing-genius-how-guidejar-reached-1100-mrr-f90dbd612f — IH GuideJar 1100 MRR
+[264] https://www.reddit.com/r/SideProject/comments/1egsyv4/i_grew_guidejar_to_1100_mrr_with_a_good_product — r/SideProject GuideJar 1100
+[265] https://www.indiehackers.com/post/tech/turning-a-simple-b2b-solution-into-a-15k-mrr-saas-by-exploiting-a-market-niche-xIxrVwn24DVsN8b3PYD3 — IH Stagetimer 15K niche
+[266] https://www.indiehackers.com/post/lukas-and-liz-make-10k-a-month-selling-countdown-timers-Nh3Ysb387zBjFbw5Seqa — IH Stagetimer couple 10K
+[267] https://stagetimer.io/blog/product-update-2-11-team-feature — Stagetimer team pricing blog
+[268] https://screenshotone.com/about — ScreenshotOne about Dmytro
+[269] https://thetruestack.com/tools/screenshotone — TrueStack ScreenshotOne review
+[270] https://nusii.com/demo — Nusii book-a-demo
+[271] https://nusii.com — Nusii homepage small-team
+[272] https://kaeda.co/cases/senja — Kaeda Senja 1M ARR negative-screen
+[273] https://senja.io/about — Senja about 2-person
+[274] https://www.linkedin.com/posts/olivermeakings_i-want-to-kill-senjas-free-tier-when-we-activity-7300162692747571200-ObFX — Senja LinkedIn kill-free-tier
+[275] https://sitegpt.ai/docs/setup/quickstart — SiteGPT quickstart email-only
+[276] https://famewall.io/about — Famewall about Goutham
+[277] https://supademo.com — Supademo homepage negative-screen
+[278] https://keepthescore.com/pricing — KeepTheScore pricing Paddle
+[279] https://nusii.com/pricing — Nusii pricing 14-day trial
+[280] https://sitegpt.ai/pricing — SiteGPT pricing card-trial
+[281] https://famewall.io/pricing — Famewall pricing freemium
+[282] https://www.guidejar.com/pricing — Guidejar pricing
+[283] https://keepthescore.com/terms — KTS terms auto-renew
+[284] https://casparwre.de/blog/saas-pricing-strategy — Caspar pricing strategy post
+[285] https://www.inkdrop.app/pricing — Inkdrop pricing Stripe
+[286] https://docs.inkdrop.app/faq — Inkdrop docs Stripe faq
+[287] https://www.devas.life/how-i-successfully-doubled-my-saas-price-to-10-month-and-lowered-the-churn-rate-to-3 — Devaslife doubled price churn
+[288] https://forum.inkdrop.app/t/inkdrop-price-change/4366 — Inkdrop forum price change
+[289] https://www.starterstory.com/stories/how-i-built-it-12k-month-micro-saas — StarterStory ScreenshotOne 12K
+[290] https://startupfounderstories.com/stories/dmytro-krasun-screenshotone-20k-mrr — FounderStories Dmytro 20K
+[291] https://www.indiehackers.com/post/tech/working-towards-financial-independence-with-an-api-saas-while-raising-a-family-l8gTzlBLNhN6I4NF4KsC — IH ScreenshotOne family API
+[292] https://www.liinks.co/pricing — Liinks pricing trial
+[293] https://www.liinks.co/about — Liinks about Charlie
+[294] https://www.starterstory.com/stories/liinks-supercharge-your-link-in-bio — StarterStory Liinks 25K
+[295] https://www.indiehackers.com/post/from-0-to-1k-mrr-in-8-months-bootstrapping-habit-pixel-as-a-solo-dev-53d8687d15 — IH HabitPixel 0-1K
+[296] https://nocodeexits.substack.com/p/how-hirvesh-munogee-grew-habit-pixel — NocodeExits HabitPixel
+[297] http://play.google.com/store/apps/details?hl=en_US&id=com.habitpixel.app — PlayStore HabitPixel
+[298] https://medium.com/@hirvesh/weekly-indie-log-21-b1febf3f1693 — Medium indie log 21 Hirvesh
+[299] https://arrfounder.com/@shri_vatz — ARRfounder Shri 5.7K churn
+[300] https://www.indiehustle.co/p/a-simple-countdown-timer-for-videos — IndieHustle Stagetimer video
+[301] https://startupfounderstories.com/stories/lukas-hermann-stagetimer-20k-mrr — FounderStories Lukas 20K
+[302] https://nusii.com/blog/why-we-ask-for-a-credit-card — Nusii blog card defense
+[303] https://www.crunchbase.com/organization/nusii — Crunchbase Nusii
+[304] https://senja.io/authors/olly-meakings — Senja authors Olly
+[305] https://pod.co/product-led-podcast/bootstrapping-senja-to-800k-arr-with-a-co-founder-i-ve-never-met — Podco Senja 800K cofounder
+[306] https://famewall.io/founder-stories/journey-to-1000-mrr — Famewall 1K MRR story
+[307] https://in.linkedin.com/in/goutham-jay-604457140 — LinkedIn Goutham Famewall
+[308] https://sitegpt.ai/contact-us — SiteGPT contact founders
+[309] https://www.starterstory.com/stories/sitegpt — StarterStory SiteGPT PMF
+[310] https://www.linkedin.com/posts/pbteja1998_we-onboarded-20-new-businesses-to-sitegpt-activity-7401266164330348545-He92 — LinkedIn SiteGPT 20 onboarded
+[311] https://savvycal.com/company — SavvyCal company Derrick
+[312] https://savvycal.com/eim — SavvyCal friendly email
+[313] https://poststatus.com/upcoming-webinar-the-savvycal-story-with-founder-derrick-reimer — PostStatus SavvyCal trial
+[314] https://unlocksaas.com/vs/cal-com-vs-savvycal — UnlockSaaS Cal-vs-SavvyCal
+[315] https://cal.com/pricing — Cal pricing free tier
+[316] https://plausible.io/docs/register-account — Plausible register 4 asks
+[317] https://senja.io/pricing — Senja pricing free-15
+[318] https://blogrecorder.com — BlogRecorder shutdown excluded
+[319] https://exa.ai/library/person/nh4g92wf8x2 — Exa Olly Senja 700 churned
+[320] https://arrfounder.com/news/guidejar-reaches-5k-mrr — ARRfounder GuideJar 5K Dec25
+[321] https://pulsemrr.app/startup/guidejar — PulseMRR GuideJar 5.1K flat 235subs
+[322] https://trustmrr.com/startup/guidejar — TrustMRR GuideJar Stripe-verified Sep26
