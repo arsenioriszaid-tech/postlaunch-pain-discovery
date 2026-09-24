@@ -1,2 +1,8 @@
 target,track,channel,date_sent,followup_date,reply_isi,outcome_stage,baseline,intervention,measured_outcome,economic_signal,wtp_signal,next_action
-GuideJar,H2,X DM,2026-09-24,,,,contacted,,,,,,
+Guidejar,H2,X DM,2026-09-24,,,,contacted,,,,,,
+KeepTheScore,H2,email hi@keepthescore.com,2026-09-24,,,,contacted,,,,,,
+ScreenshotOne,H2,email hey@screenshotone.com,2026-09-24,,,,contacted,,,,,,
+Nusii,H1,email support@nusii.com,2026-09-24,,,,contacted,,,,,,
+Inkdrop,H2,X DM @inkdrop_app,,,,blocked-dm-closed,,,,,fallback: forum.inkdrop.app / reply publik,
+Userlist,H1,X DM @uibreakfast,,,,blocked-dm-closed,,,,,fallback: support@userlist.com,
+SavvyCal,H3,X DM @derrickreimer,,,,blocked-dm-closed,,,,,fallback: email ramah SavvyCal [312],
