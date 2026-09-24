@@ -365,3 +365,26 @@
 [363] https://getlatka.com/companies/usesignhouse.com — Latka SignHouse 550K
 [364] https://usesignhouse.com/pricing — SignHouse pricing sub
 [365] https://www.outseta.com/posts/five-years-a-founder — Outseta five-years founder
+[366] https://www.indiehackers.com/post/the-save-on-cancel-ladder-we-use-pause-discount-downgrade-6bbbb15f7c — IH save-on-cancel ladder
+[367] https://churnkey.co/blog/how-wavve-cut-churn-by-2-over-two-months-with-better-cancellation-flows — Churnkey Wavve cancel flows
+[368] https://help.baremetrics.com/en/articles/5379918-benchmarks — Baremetrics benchmarks help
+[369] https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it — Keygen 14day trial cut
+[370] https://redo.com/resources/articles/chargebacks/stripe-chargeback-fees — Redo Stripe chargeback fees
+[371] https://airbyte.com/blog/automating-stripe-disputes — Airbyte automating disputes
+[372] https://www.cancelpause.com — CancelPause micro tool
+[373] https://www.getcancelguard.com — CancelGuard micro tool
+[374] https://unchurn.dev — Unchurn micro tool
+[375] https://tryretainly.com — TryRetainly micro tool
+[376] https://triggla.com/blog/trial-expiration-email-how-to-rescue-trials-before-they-churn. — Triggla trial rescue email
+[377] https://www.vevee.org/blog/founder-outreach-drafts-not-autosends — Vevee outreach drafts
+[378] https://www.vevee.org/blog/trial-end-email-written-from-usage — Vevee trial-end usage email
+[379] https://growthhacksuite.com/gmass-solopreneur-case-study — Gmass solopreneur case
+[380] https://www.indiehackers.com/yoaso — IH yoaso profile
+[381] https://www.indiehackers.com/post/how-our-cancel-link-proxy-works-and-how-to-roll-it-back-in-one-click-eec0b9e873 — Companion cancel proxy
+[382] https://www.indiehackers.com/post/i-built-a-cancellation-flow-so-saas-founders-dont-have-to-9XHXzd4hAkaAhgXG3XUT — MRRX cancel flow
+[383] https://www.indiehackers.com/post/i-built-a-churn-prevention-tool-then-deleted-the-billing-code-and-made-it-free-2fb1fc16d1 — CancelKit free builder story
+[384] https://www.vevee.org/blog/pre-call-sales-brief-from-product-usage — Vevee pre-call brief
+[385] https://www.vevee.org/blog/the-upgrade-nudge-that-writes-itself — Vevee upgrade nudge
+[386] https://docs.stripe.com/disputes/responding.md — Stripe disputes windows fees
+[387] https://stripe.com/resources/more/representment-explained — Stripe representment 101
+[388] https://www.operatorbook.dev/stories/the-month-a-chargeback-wave-froze-my-stripe-at-23k-mrr — OperatorBook chargeback composite-C
