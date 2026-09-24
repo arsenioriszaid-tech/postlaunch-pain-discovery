@@ -342,3 +342,26 @@
 [340] https://www.plutio.com/about — Plutio about Leo
 [341] https://www.plutio.com/blog/plutio-backstory — Plutio backstory Leo
 [342] https://www.indiehackers.com/post/how-building-a-community-helped-us-grow-to-10-000-users-yFPbXAsn4yRr1TLXvjsd — IH Plutio 10K users
+[343] https://xfusion.io/case-studies/savvycal — xFusion SavvyCal support
+[344] https://xfusion.io/case-studies/savvycal-and-xfusion-case-study — xFusion SavvyCal case2
+[345] https://www.derrickreimer.com/work — Derrick Reimer work team4
+[346] https://www.tomhunt.io/blog/ep-024---does-appsumo-work-with-leo-bassam-founder-ceo-at-plutio — TomHunt Plutio AppSumo support
+[347] https://encharge.io/about — Encharge about Kalo Slav
+[348] https://www.indiehackers.com/post/hello-ih-i-cofounded-rize-where-we-got-1-on-product-hunt-in-may-and-just-reached-11-000-in-monthly-sales-ama-97f4c8f30e — IH Rize 11K AMA
+[349] https://userjot.com — UserJot home
+[350] https://userjot.com/blog/introduction — UserJot intro Shayan
+[351] https://github.com/papermark/papermark — Papermark github solo-conflict
+[352] https://userlist.com/press-kit — Userlist press-kit founders
+[353] https://userlist.com/docs/getting-started/billing — Userlist billing retry-flow
+[354] https://userlist.com/integrations/stripe — Userlist Stripe integration
+[355] https://www.outseta.com/get-started — Outseta get-started card
+[356] https://www.starterstory.com/outseta-breakdown — StarterStory Outseta breakdown
+[357] https://the-first-500.webflow.io/course-videos/pricing-experiments — First500 Outseta pricing-exp
+[358] https://www.feedhive.com/terms — FeedHive terms card-hold
+[359] https://www.feedhive.com/pricing — FeedHive pricing Stripe
+[360] https://buttondown.com/blog/repricing — Buttondown repricing essay
+[361] https://docs.buttondown.com/paid-subscriptions — Buttondown docs Stripe-native
+[362] https://github.com/jmduke — jmduke github founder
+[363] https://getlatka.com/companies/usesignhouse.com — Latka SignHouse 550K
+[364] https://usesignhouse.com/pricing — SignHouse pricing sub
+[365] https://www.outseta.com/posts/five-years-a-founder — Outseta five-years founder
