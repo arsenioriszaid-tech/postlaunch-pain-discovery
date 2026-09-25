@@ -1,6 +1,6 @@
 target,track,channel,date_sent,followup_date,reply_isi,outcome_stage,baseline,intervention,measured_outcome,economic_signal,wtp_signal,next_action
 Guidejar,H2,X DM,2026-09-24,,,,contacted,,,,,,
-KeepTheScore,H2,email hi@keepthescore.com,2026-09-24,,,,contacted,,,,,,
+KeepTheScore,H2,email hi@keepthescore.com,2026-09-24,,Paddle already does this automatically.,replied-objection-platform-covered,,,Paddle Retain buktikan retry+email otomatis [406][407] → concierge retry/email TAMBAH ~NOL di Paddle; SESUAIKAN: VH2b menyempit ke Stripe-direct; tindak lanjut opsional 1 pertanyaan diagnostik di bawah, lalu stop jika tidak ada minat,alih ke Inkdrop/ScreenshotOne (Stripe)
 ScreenshotOne,H2,email hey@screenshotone.com,2026-09-24,,,,contacted,,,,,,
 Nusii,H1,email support@nusii.com,2026-09-24,,,,contacted,,,,,,
 Inkdrop,H2,reply publik @inkdrop_app,2026-09-24,,,"contacted (fallback)",,,,,,

@@ -405,3 +405,5 @@
 [403] https://www.indiehackers.com/post/i-spent-a-day-building-the-button-that-lets-people-cancel-and-leave-me-7d9487b76b — IH NotebookBloom cancel-btn
 [404] https://www.fincoro.com/insights/stripe-chargeback-what-merchants-miss — Fincoro chargeback miss
 [405] https://stripe.com/resources/more/chargeback-reports — Stripe chargeback reports
+[406] https://developer.paddle.com/build/retain/configure-payment-recovery-dunning — Paddle Retain auto-recovery
+[407] https://www.paddle.com/help/profitwell-metrics/retain/how-it-works/retain-payment-recovery-how-it-works-retry-cadence — Paddle Retain retry-cadence
