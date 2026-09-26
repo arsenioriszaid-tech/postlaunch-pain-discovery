@@ -473,3 +473,9 @@
 [471] https://unclekam.com/tax-strategy-blog/contractor-online-course-development-2026-tax-guide — UncleKam splits ledger
 [472] https://canny.io/about — Canny about team
 [473] https://invoiceninja.com/about — InvoiceNinja about
+[474] https://dub.co/contact/support — Dub support contact
+[475] https://www.trustpilot.com/review/dub.co — Trustpilot Dub support-email
+[476] https://www.simonhoiberg.com — Simon Hoiberg portfolio
+[477] https://ch.linkedin.com/in/simonhoiberg — Simon Hoiberg LinkedIn
+[478] https://encharge.io/contact — Encharge contact kalo
+[479] https://kalo.me/about — Kalo 400K ARR exit
