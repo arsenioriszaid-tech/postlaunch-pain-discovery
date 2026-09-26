@@ -1,0 +1,8 @@
+TARGET_ID,company,product,icp,model,scale,person,contact,status,track,pain_summary,workflow,economic,workaround_spend,hook,wrong_note
+T-001,GuideJar,how-to guides,SaaS solo,subscription,~$5.7K MRR/235 subs,Shri Vatz,X DM/CONTACTED,H2-CONTACTED,dunning,"churn challenge",failed-payment recovery,failed MRR at risk,none observed,build-in-public,
+T-002,KeepTheScore,scoreboards,sports/streamers,subscription+Paddle,~$16k gross,Caspar von Wrede,email/CONTACTED,H2-REPLIED,dunning,"very high churn",retry+email (Paddle-covered),Paddle Retain covers,Paddle Retain,interview churn quote,MoR narrows concierge
+T-003,Inkdrop,markdown notes,devs,Stripe sub,solo,Takuya Matsuyama,reply publik/CONTACTED,H2-CONTACTED,dunning,price-doubling churn 4-9%,failed-payment recovery,9% churn peak,own recovery,devas.life journey,
+T-004,ScreenshotOne,screenshot API,devs,subscription,~$12k/280 subs,Dmytro Krasun,email/CONTACTED,H2-CONTACTED,dunning,churn 11-7% manual emails,manual churn email,time cost,manual emails,manual-email culture,
+T-005,Nusii,proposal software,freelancers,14-day trial,small team,M. Koper,email/CONTACTED,H1-CONTACTED,funnel,card-upfront defended,trial conversion,conversion lift?,none,FAQ defense,
+T-006,Userlist,lifecycle email,SaaS,card trial,2 founders,Jane Portman,email-fallback/CONTACTED,H1-CONTACTED,funnel,"conversion-killing" card,billing retry flow,conversion lift?,none,self-called killing,
+T-007,SavvyCal,scheduling,teams,trial+sub,team 4,Derrick Reimer,email-fallback/CONTACTED,H3-CONTACTED,triage,morning inbox anxiety,triage 30min/day,hours + hire,xFusion hire,anxiety mornings,

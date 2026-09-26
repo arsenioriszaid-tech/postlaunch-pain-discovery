@@ -407,3 +407,49 @@
 [405] https://stripe.com/resources/more/chargeback-reports — Stripe chargeback reports
 [406] https://developer.paddle.com/build/retain/configure-payment-recovery-dunning — Paddle Retain auto-recovery
 [407] https://www.paddle.com/help/profitwell-metrics/retain/how-it-works/retain-payment-recovery-how-it-works-retry-cadence — Paddle Retain retry-cadence
+[408] https://dashthis.com/blog/digital-reporting-tool-case-study-jelly-marketing — DashThis Jelly reporting case
+[409] https://agencyanalytics.com/pricing — AgencyAnalytics pricing
+[410] https://madgicx.com/blog/digital-marketing-reports — Madgicx reporting manual
+[411] https://www.ledgerup.ai/docs/usage-metering — LedgerUp metering docs
+[412] https://darkhorse.cpa — Darkhorse CPA
+[413] https://getsponsy.com/pricing — Sponsy pricing
+[414] https://shiptell.com — Shiptell
+[415] https://turno.com/contact-us — Turno contact
+[416] https://docs.factuarea.com/guides/versioning — Factuarea versioning
+[417] https://www.indiehackers.com/post/i-sent-10-cold-dms-about-failed-stripe-payments-heres-what-ac — IH 10 DMs failed Stripe
+[418] https://www.indiehackers.com/post/most-founders-are-optimizing-the-wrong-churn-eb704d3920 — IH wrong churn optimize
+[419] https://www.reddit.com/r/SaaS/comments/1s3dtmd/support_tickets_are_growing_faster_than_revenue — r/SaaS tickets vs revenue
+[420] https://www.reddit.com/r/SaaS/comments/1qobmte/how_do_you_reduce_support_tickets_as_a_solo_saas — r/SaaS reduce tickets solo
+[421] https://www.reddit.com/r/SaaS/comments/1ojyjp1/your_onboarding_flow_is_probably_why_nobody — r/SaaS onboarding nobody
+[422] https://www.reddit.com/r/ecommerce/comments/1tnwqxt/is_everyone_still_handling_payment_disputes — r/ecommerce disputes still
+[423] https://www.reddit.com/r/ecommerce/comments/1tojja7/had_a_chargeback_last_week_and_spent_over_3_hours — r/ecommerce chargeback 3hrs
+[424] https://www.reddit.com/r/smallbusiness/comments/1i5ag3r/late_invoices_are_killing_me — r/smallbusiness late invoices
+[425] https://www.reddit.com/r/smallbusiness/comments/1rn8imt/tired_of_chasing_invoices_as_a_agency_owner_how — r/smallbusiness chasing invoices
+[426] https://www.reddit.com/r/indie_startups/comments/1t13hgd/employee_onboarding_automation_across_5_saas_tools — r/indie onboarding 5 tools
+[427] https://www.reddit.com/r/PPC/comments/1myo7la/client_reporting_feels_way_more_manual_than_it — r/PPC reporting manual
+[428] https://www.reddit.com/r/marketingagency/comments/1q4r6fu/agency_owners_how_do_you_handle_client_reporting — r/marketingagency reporting
+[429] https://www.reddit.com/r/Accounting/comments/1ivjmhd/how_do_you_handle_invoice_reconciliation — r/Accounting reconciliation
+[430] https://news.ycombinator.com/item?id=41994658 — HN 41994658
+[431] https://news.ycombinator.com/item?id=37087381 — HN 37087381
+[432] https://news.ycombinator.com/item?id=10540377 — HN 10540377
+[433] https://usefathom.com/pricing — Fathom pricing card-trial
+[434] https://emailoctopus.com/pricing — EmailOctopus pricing
+[435] https://www.podia.com/pricing — Podia pricing
+[436] https://invoiceninja.com/pricing-plans — InvoiceNinja pricing
+[437] https://loops.so/pricing — Loops pricing SaaS-email
+[438] https://resend.com/pricing — Resend pricing
+[439] https://knock.app/pricing — Knock pricing
+[440] https://canny.io/pricing — Canny pricing
+[441] https://tally.so/help/tally-pro — Tally Pro help
+[442] https://dub.co/pricing/links — Dub links pricing
+[443] https://www.churned.io — Churned io tool
+[444] https://www.producthunt.com/products/signup-links-by-wingback — Wingback signup links
+[445] https://api.github.com/repos/GoHighLevel/highlevel-api-docs/issues/201 — GoHighLevel API issue 201
+[446] https://api.github.com/repos/frappe/helpdesk/issues/2967 — Frappe helpdesk 2967
+[447] https://dev.to/kanta13jp1/indie-dev-saas-launch-pricing-strategy-stripe-integration-and-freemium-to-paid-design-257f — Devto kanta freemium-paid
+[448] https://usefathom.com/blog/acquired — Fathom acquired 2024 NEGATIVE
+[449] https://www.starterstory.com/stories/on-creating-an-email-marketing-tool-with-10k-customers — StarterStory EmailOctopus 10K
+[450] https://www.linkedin.com/in/jonathan-bull-12226018 — Jonathan Bull CEO
+[451] https://loops.so/about — Loops about Chris 2founders
+[452] https://www.ycombinator.com/companies/loops — YC Loops
+[453] https://turno.com/about-us — Turno about NEGATIVE-size
