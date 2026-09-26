@@ -13,6 +13,17 @@
 ## Kontak lama (13, dari `15-sprint-targets.md`): Nusii, Userlist, Famewall, SiteGPT, Outseta, FeedHive, SavvyCal, Plutio, Encharge, Rize, UserJot, Senja, Plausible, Liinks, Buttondown, Stagetimer, ScreenshotOne, Featurebase — ringkas: 7 CONTACTED, sisanya QUALIFIED/CONTACTABLE per file itu. (18 baris di file; 7 sudah dihubungi → 11 pipeline + A-21–25 = 16 menunggu + 7 aktif = 23; +Encharge/Rize/UserJot = 25 TOTAL dengan Batch I.)
 
 ## Negative screen baru
-Fathom (ACQUIRED Des 2024 [448]) · Turno (marketplace raksasa [453]) · Podia/Resend/Knock/Canny/Dub (terdanai/besar, pola umum) · Papermark/Tally/Rewardful/SignHouse/BlogRecorder (lama).
+Fathom (ACQUIRED Des 2024 [448]) · Turno (marketplace raksasa [453]) · Podia/Resend/Knock (terdanai/besar, pola umum) · Timing (bukti tertipis, desktop-only) · Papermark/Tally/Rewardful/SignHouse/BlogRecorder (lama). Canny/Dub DIPROMOSIKAN ke Batch B (kontak terdaftar).
 
-## Syarat Batch B (25 berikut): Batch A di-approve + min 3 balasan ATAU 1 akses dari 14 kontak aktif. Jika tidak: JANGAN tambah volume, dalami yang ada.
+## Batch B (siap approve; kirim D4–5 ganti yang sunyi)
+- Canny — canny.io (H1/rescue): trial 14 hari + revert logika + sales@canny.io TERDAFTAR [stream + 472]; kontak paling bersih di hunt.
+- Invoice Ninja — invoiceninja.com (H2): auto-billing + auto-reminder + concierge@ TERDAFTAR + klaim 200rb bisnis [stream + 473].
+- Dub — dub.co (rescue): trial 14 hari + quota walls [stream].
+- FeedHive, Encharge (dari Batch A, belum dikirim).
+- Reddit-DM alternates (anonim, hanya jika batch formal kering): B01 u/Civilmats_992 (57% revenue ke support [419]); B05 u/Apprehensive_Pay6141 ($3.400 wipeout [456]) — pendekatan via reply publik, BUKAN cold DM.
+
+## Bukti penguat baru (masuk ledger, bukan target baru)
+- H2: HN encoderer "25% churn = kartu mati + tak pernah dibalas" [432]; DunnAI Yo Aso "prospek $10K MRR jika tagihan gagal pulih" [457].
+- H3: B02 refund 3 jam/6 tab [454]; B03 65% tiket = onboarding, −40% via UX [455].
+- Adjacent: A03 doc-chase CPA (Ignition+Karbon [468], week-vs-month [469]); A10 MOR-leftover ledger [470][471]; A04 Jobber [459]; A06 Turno-dispute dgn Breezeway/Spotless [466][467].
+- Konflik dicatat: Fathom tetap CORET (akuisisi fakta [448] > trial-fit); Tally tetap CORET (skala); Buttondown tetap cadangan (konflik ukuran); Papermark tetap CORET.

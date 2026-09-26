@@ -453,3 +453,23 @@
 [451] https://loops.so/about — Loops about Chris 2founders
 [452] https://www.ycombinator.com/companies/loops — YC Loops
 [453] https://turno.com/about-us — Turno about NEGATIVE-size
+[454] https://www.reddit.com/r/SaaS/comments/1t8778b/biggest_thing_i_underestimated_in_saas_support — r/SaaS refund-3hrs B02
+[455] https://www.reddit.com/r/SaaS/comments/1s1agak/we_thought_we_needed_more_support_agents_turns — r/SaaS onboarding-tickets B03
+[456] https://www.reddit.com/r/ecommerce/comments/1qci3a4/just_got_charged_back_3400_in_one_day_and_i — r/ecommerce 3400-chargeback B05
+[457] https://www.indiehackers.com/post/i-sent-10-cold-dms-about-failed-stripe-payments-heres-what-actually-happened-ab926375a3 — IH DunnAI 10-DMs
+[458] https://github.com/GoHighLevel/highlevel-api-docs/issues/201 — GHL issue-201 web
+[459] https://www.getjobber.com — Jobber home
+[460] https://www.housecallpro.com/industries/hvac-software — HousecallPro HVAC
+[461] https://www.casestudies.com/company/jobber/case-study/better-scheduling-led-to-this-hvac-business-highest-year-on-record — Casestudy Jobber scheduling
+[462] https://www.casestudies.com/company/jobber/case-study/growing-a-15-million-hvac-business-with-jobber — Casestudy Jobber 15M
+[463] https://www.casestudies.com/company/jobber/case-study/how-this-plumber-reduced-costs-by-over-50-with-jobber — Casestudy Jobber callbacks
+[464] https://www.dentrix.com/dental-solutions/marketing-and-patient-experience/dentrix-patient-engage-suite — Dentrix engage suite
+[465] https://valiansystems.com/blog/how-to-reduce-patient-no-shows — Valian noshow guide
+[466] https://www.breezeway.io/task-automation — Breezeway automation
+[467] https://www.spotlessapp.io/blog/airbnb-turnover-cleaning-guide — Spotless turnover guide
+[468] https://www.ignitionapp.com/news/ignition-and-karbon-launch-new-integration-to-unify-billing-and-workflow-automation — Ignition Karbon integration
+[469] https://www.ezfiledrop.com/articles/bookkeeping-client-onboarding-checklist — EzFileDrop onboarding week-month
+[470] https://legalclarity.org/how-lemon-squeezy-handles-sales-tax-as-merchant-of-record — LegalClarity LemonSqueezy MOR
+[471] https://unclekam.com/tax-strategy-blog/contractor-online-course-development-2026-tax-guide — UncleKam splits ledger
+[472] https://canny.io/about — Canny about team
+[473] https://invoiceninja.com/about — InvoiceNinja about
